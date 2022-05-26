@@ -1,29 +1,31 @@
-!
-! Title: AdGuard DNS filter
-! Description: Filter for my own personal use.
-! Homepage: https://github.com/pjosefde/adguard-home
-! Last modified: 2022-05-26T06:37:45.000Z
-!
-!
-! This section contains the list of third-party advertising networks domains.
-! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
-! The rules with hints are at the end of file.
-!
-! Good: ||doubleclick.net^$third-party
-! Bad: /banner.jpg (should be in general_url.txt)
-! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
-!
-!
-!
+#
+# Title: AdGuard DNS filter
+# Description: Filter for my own personal use.
+# Homepage: https://github.com/pjosefde/adguard-home
+# Last modified: 2022-05-26T06:37:45.000Z
+#
+#
+# This section contains the list of third-party advertising networks domains.
+# Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+# The rules with hints are at the end of file.
+#
+# Good: ||doubleclick.net^$third-party
+# Bad: /banner.jpg (should be in general_url.txt)
+# Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 
-! For whitelisting investing.com
+
+# For whitelisting investing.com
 
 @@||static.doubleclick.net$domain=investing.com
 
-! For blocking Youtube ads in ID MyRepublic network
+
+# For blocking Youtube ads in ID MyRepublic network
 
 ||ade.googlesyndication.com^$important
-! ||r*---sn-htgx20capjpq-jb3l.googlevideo.com^$important
+||redirector.googlevideo.com^$important
+||www.googleadservices.com^$important
+
+# ||r*---sn-htgx20capjpq-jb3l.googlevideo.com^$important
 
 74.125.12.10 r1---sn-htgx20capjpq-jb3l.googlevideo.com
 74.125.12.10 r2---sn-htgx20capjpq-jb3l.googlevideo.com
