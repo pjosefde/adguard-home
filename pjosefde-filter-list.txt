@@ -15,6 +15,32 @@
 !
 !
 !
+
+! For whitelisting investing.com
+
 @@||static.doubleclick.net$domain=investing.com
+
+! For blocking Youtube ads in ID MyRepublic network
+
 ||ade.googlesyndication.com^$important
-||r*---sn-htgx20capjpq-jb3l.googlevideo.com^$important
+! ||r*---sn-htgx20capjpq-jb3l.googlevideo.com^$important
+
+74.125.12.10 r1---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 r2---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 r3---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 r4---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 r5---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 r6---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 r7---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 r8---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 r9---sn-htgx20capjpq-jb3l.googlevideo.com
+
+74.125.12.10 rr1---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 rr2---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 rr3---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 rr4---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 rr5---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 rr6---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 rr7---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 rr8---sn-htgx20capjpq-jb3l.googlevideo.com
+74.125.12.10 rr9---sn-htgx20capjpq-jb3l.googlevideo.com
