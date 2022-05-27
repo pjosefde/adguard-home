@@ -22,8 +22,8 @@
 # For blocking Youtube ads in ID MyRepublic network
 
 ||ade.googlesyndication.com^$important
-# ||www.googleadservices.com^$important
-# ||redirector.googlevideo.com^$important
+||www.googleadservices.com^$important
+||redirector.googlevideo.com^$important
 
 ||r*---sn-htgx20capjpq-jb3l.googlevideo.com^$important
 
