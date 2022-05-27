@@ -26,6 +26,7 @@
 ||redirector.googlevideo.com^$important
 
 ||r*---sn-htgx20capjpq-jb3l.googlevideo.com^$important
+||r*---sn-htgx20capjpq-jb3l.gvt1.com^$important
 
 # 74.125.12.10 r1---sn-htgx20capjpq-jb3l.googlevideo.com
 # 74.125.12.10 r2---sn-htgx20capjpq-jb3l.googlevideo.com
