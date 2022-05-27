@@ -2,7 +2,7 @@
 # Title: AdGuard DNS filter
 # Description: Filter for my own personal use.
 # Homepage: https://github.com/pjosefde/adguard-home
-# Last modified: 2022-05-26T13:43:11.000Z
+# Last modified: 2022-05-27T01:10:50.000Z
 #
 #
 # This section contains the list of third-party advertising networks domains.
@@ -22,7 +22,7 @@
 # For blocking Youtube ads in ID MyRepublic network
 
 ||ade.googlesyndication.com^$important
-||www.googleadservices.com^$important
+# ||www.googleadservices.com^$important
 # ||redirector.googlevideo.com^$important
 
 ||r*---sn-htgx20capjpq-jb3l.googlevideo.com^$important
