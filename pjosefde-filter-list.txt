@@ -47,3 +47,8 @@
 # 74.125.12.10 rr7---sn-htgx20capjpq-jb3l.googlevideo.com
 # 74.125.12.10 rr8---sn-htgx20capjpq-jb3l.googlevideo.com
 # 74.125.12.10 rr9---sn-htgx20capjpq-jb3l.googlevideo.com
+
+# General block list
+
+||biz.id^$important
+
