@@ -50,5 +50,5 @@
 
 # General block list
 
-||biz.id^$important
+||*.biz.id^$important
 
