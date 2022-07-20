@@ -16,7 +16,7 @@
 
 # For whitelisting investing.com
 
-@@||static.doubleclick.net$domain=investing.com
+@@||*.doubleclick.net$domain=investing.com
 
 
 # For blocking Youtube ads in ID MyRepublic network
