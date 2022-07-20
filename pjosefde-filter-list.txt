@@ -16,7 +16,7 @@
 
 # For whitelisting investing.com
 
-@@||static.doubleclick.net^$important
+@@||static.doubleclick.net$ctag=device_laptop
 
 # @@||*.doubleclick.net$ctag=device_laptop
 # @@||*.outbrain.com$ctag=device_laptop
