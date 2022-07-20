@@ -17,6 +17,10 @@
 # For whitelisting investing.com
 
 @@||*.doubleclick.net$domain=investing.com
+@@||*.outbrain.com$domain=investing.com
+@@||*.ad-score.com$domain=investing.com
+@@||*.taboola.com$domain=investing.com
+@@||*.scorecardresearch.com$domain=investing.com
 
 
 # For blocking Youtube ads in ID MyRepublic network
@@ -47,6 +51,7 @@
 # 74.125.12.10 rr7---sn-htgx20capjpq-jb3l.googlevideo.com
 # 74.125.12.10 rr8---sn-htgx20capjpq-jb3l.googlevideo.com
 # 74.125.12.10 rr9---sn-htgx20capjpq-jb3l.googlevideo.com
+
 
 # General block list
 
