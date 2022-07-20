@@ -16,11 +16,11 @@
 
 # For whitelisting investing.com
 
-@@||*.doubleclick.net$domain=investing.com
-@@||*.outbrain.com$domain=investing.com
-@@||*.ad-score.com$domain=investing.com
-@@||*.taboola.com$domain=investing.com
-@@||*.scorecardresearch.com$domain=investing.com
+#@@||*.doubleclick.net$ctag=device_laptop
+#@@||*.outbrain.com$ctag=device_laptop
+#@@||*.ad-score.com$ctag=device_laptop
+#@@||*.taboola.com$ctag=device_laptop
+#@@||*.scorecardresearch.com$ctag=device_laptop
 
 
 # For blocking Youtube ads in ID MyRepublic network
