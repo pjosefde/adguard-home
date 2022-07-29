@@ -56,6 +56,10 @@
 # 74.125.12.10 rr9---sn-htgx20capjpq-jb3l.googlevideo.com
 
 
+# Spotify ad-blocking
+||video-akpcw-cdn-spotify-com.akamaized.net^$important
+
+
 # General block list
 
 ||biz.id^$important
