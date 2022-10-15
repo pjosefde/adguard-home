@@ -67,5 +67,3 @@
 ||rtb.astrodsp.com^$important
 ||track.mmsvc.io^$important
 ||hop-api.mmsvc.io^$important
-||https://jmt17.google.com^$important
-||https://jmt17.google.com.prc3801^$important
