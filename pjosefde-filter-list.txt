@@ -69,3 +69,8 @@
 ||hop-api.mmsvc.io^$important
 ||p16-ttam-va.ibyteimg.com^$important
 ||analytics.adcanvas.com^$important
+||sf16-static.i18n-pglstatp.com^$important
+||dcqi4aodgg8tv.cloudfront.net^$important
+||event-portal.dailyinnovation.biz^$important
+||apac.trk.svr-algorix.com^$important
+||apse-cr.svr-algorix.com^$important
