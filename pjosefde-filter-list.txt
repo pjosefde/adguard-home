@@ -67,3 +67,4 @@
 ||rtb.astrodsp.com^$important
 ||track.mmsvc.io^$important
 ||hop-api.mmsvc.io^$important
+||p16-ttam-va.ibyteimg.com^$important
