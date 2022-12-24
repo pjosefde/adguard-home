@@ -58,6 +58,7 @@
 
 # Spotify ad-blocking
 ||video-akpcw-cdn-spotify-com.akamaized.net^$important
+||gae2-spclient.spotify.com^$important
 
 
 # General block list
