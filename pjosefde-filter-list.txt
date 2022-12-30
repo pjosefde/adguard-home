@@ -62,7 +62,6 @@
 
 
 # General block list
-
 ||d3py17yaayq4xi.cloudfront.net^$important
 ||rtb.astrodsp.com^$important
 ||track.mmsvc.io^$important
