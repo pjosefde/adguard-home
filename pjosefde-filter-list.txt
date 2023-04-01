@@ -72,3 +72,5 @@
 ||event-portal.dailyinnovation.biz^$important
 ||apac.trk.svr-algorix.com^$important
 ||apse-cr.svr-algorix.com^$important
+||api.gov-img.site^$important
+||api.bytegle.site^$important
