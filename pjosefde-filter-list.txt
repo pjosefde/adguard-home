@@ -74,3 +74,4 @@
 ||apse-cr.svr-algorix.com^$important
 ||api.gov-img.site^$important
 ||api.bytegle.site^$important
+||gdl.news-cdn.site^$important
