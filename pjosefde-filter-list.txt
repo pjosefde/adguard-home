@@ -75,3 +75,5 @@
 ||api.gov-img.site^$important
 ||api.bytegle.site^$important
 ||gdl.news-cdn.site^$important
+||track.playsimple.games^$important
+||prod.playsimple.games^$important
