@@ -77,3 +77,5 @@
 ||gdl.news-cdn.site^$important
 ||track.playsimple.games^$important
 ||prod.playsimple.games^$important
+||xjp-jmacs.m.taobao.com^$important
+||jmacs-m.lazada.co.id^$important
