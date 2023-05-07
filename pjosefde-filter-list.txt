@@ -79,3 +79,4 @@
 ||prod.playsimple.games^$important
 ||xjp-jmacs.m.taobao.com^$important
 ||jmacs-m.lazada.co.id^$important
+||acs-m.lazada.sg^$important
