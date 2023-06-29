@@ -80,3 +80,4 @@
 ||xjp-jmacs.m.taobao.com^$important
 ||jmacs-m.lazada.co.id^$important
 ||acs-m.lazada.sg^$important
+||csi.gstatic.com^$important
