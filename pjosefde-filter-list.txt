@@ -13,6 +13,7 @@
 # Bad: /banner.jpg (should be in general_url.txt)
 # Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 
+# WHITELIST
 
 # For whitelisting investing.com
 # @@||static.doubleclick.net$ctag=device_laptop
@@ -23,10 +24,15 @@
 # @@||*.taboola.com$ctag=device_laptop
 # @@||*.scorecardresearch.com$ctag=device_laptop
 
-
 # For whitelisting Microsoft Teams sessions
 @@||browser.pipe.aria.microsoft.com^$important
 
+# Whitelisting Google Ads Services so that its search results will not get blocked
+@@||www.googleadservices.com^$important
+
+# ===========================================================
+
+# BLOCKLIST
 
 # For blocking Youtube ads in ID MyRepublic network
 ||ade.googlesyndication.com^$important
