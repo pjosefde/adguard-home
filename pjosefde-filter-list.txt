@@ -28,7 +28,7 @@
 @@||browser.pipe.aria.microsoft.com^$important
 
 # Whitelisting Google Ads Services so that its search results will not get blocked
-@@||www.googleadservices.com^$important
+# @@||www.googleadservices.com^$important
 
 # ===========================================================
 
