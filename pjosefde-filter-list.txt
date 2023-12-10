@@ -66,3 +66,4 @@
 ||jmacs-m.lazada.co.id^$important
 ||acs-m.lazada.sg^$important
 ||sift-campaign-creatives.s3.amazonaws.com^$important
+||bstgms4y.com^$important
