@@ -67,3 +67,4 @@
 ||acs-m.lazada.sg^$important
 ||sift-campaign-creatives.s3.amazonaws.com^$important
 ||bstgms4y.com^$important
+||video.rainberrytv.com^$important
