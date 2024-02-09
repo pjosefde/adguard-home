@@ -30,6 +30,9 @@
 # Whitelisting Google Ads Services so that its search results will not get blocked
 # @@||www.googleadservices.com^$important
 
+# Due to Steven Black, it blocks Youtube watch history and resolution selection
+@@||s.youtube.com^$important
+
 # ===========================================================
 
 # BLOCKLIST
