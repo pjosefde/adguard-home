@@ -48,6 +48,10 @@
 ||video-akpcw-cdn-spotify-com.akamaized.net^$important
 
 
+# MyRepublic STB NXDOMAIN queries
+||www.www.www^$important
+
+
 # General block list
 ||d3py17yaayq4xi.cloudfront.net^$important
 ||rtb.astrodsp.com^$important
