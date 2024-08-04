@@ -33,6 +33,9 @@
 # Due to Steven Black, it blocks Youtube watch history and resolution selection
 @@||s.youtube.com^$important
 
+# For bypassing adblock (due to certain games) by connecting to VPN internal
+@@||*^$client='VPN-Wireguard-Internal'
+
 # ===========================================================
 
 # BLOCKLIST
