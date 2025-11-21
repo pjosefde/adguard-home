@@ -36,6 +36,9 @@
 # For bypassing adblock (due to certain games) by connecting to VPN internal
 @@||*^$client='VPN-Wireguard-Internal'
 
+# Necessary for Binance update to work, otherwise blocked by Hagezi Threat Intelligence list
+@@||download.binance.com^$important
+
 # ===========================================================
 
 # BLOCKLIST
